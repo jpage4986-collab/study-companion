@@ -1,0 +1,6 @@
+interface:
+  display_name: "Study Companion"
+  short_description: "学习对话、笔记整理与主动复习"
+  default_prompt: "Use $study-companion to guide a learning session, maintain topic notes, and review concepts with me."
+policy:
+  allow_implicit_invocation: true
